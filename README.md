@@ -1,4 +1,4 @@
-- 👋 Hola, Soy @Juan Alvarez
+- 🗣️🗣👋 Hola, Soy @Juan Alvarez
 - 👀 I’m interested in Frontend developing ...
 - 
 ## Lenguajes y Tecnologías:
