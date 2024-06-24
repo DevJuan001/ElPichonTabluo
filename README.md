@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ElPichonTabluo
-- 👀 I’m interested in web developing ...
+- 👋 Hola, Soy @Juan Alvarez
+- 👀 I’m interested in Frontend developing ...
 - 
 ## Lenguajes y Tecnologías:
 
