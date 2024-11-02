@@ -1,7 +1,7 @@
 <h2> Hola! 
 <p>Frontend Developer
 
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://giphy.com/gifs/reggaeton-arcangel-la-maravilla-LrXyf2Bk8XAP0mdsWs" width="30"> 
+</a><img src="" width="30"> 
 ## Lenguages:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
