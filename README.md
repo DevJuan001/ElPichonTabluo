@@ -1,7 +1,7 @@
 <h2> Hola! 
 <p>Frontend Developer
 
-</a><img src="" width="30"> 
+</a><img src="https://emoji.discadia.com/emojis/f160051e-d818-4845-9500-8b4e2d998d63.gif" width="30"> 
 ## Lenguages:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
