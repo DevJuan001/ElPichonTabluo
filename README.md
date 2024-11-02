@@ -16,7 +16,7 @@
 ## Contacto:
 
 - [LinkedIn](https://www.linkedin.com/in/juan-alvarez-953088316/)
-- [Discord](
+- [Discord](https://discord.com/users/1301697904398045194)
 <!---
 ElPichonTabluo/ElPichonTabluo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
