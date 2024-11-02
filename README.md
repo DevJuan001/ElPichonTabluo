@@ -1,5 +1,5 @@
-<h2><img src="https://cdn3.emoji.gg/emojis/4060-bughunter-yellow.png" width="25"> Hello! It is a pleasure for me that you are seeing my work!</h2>
-<p><em>Software Developer for SA-MP
+<h2> Hola! 
+<p><em>Frontend Developer
   
 ## Lenguajes y Tecnologías:
 
