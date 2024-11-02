@@ -1,5 +1,5 @@
 <h2> Hola! 
-<p><em>Frontend Developer
+<p>Frontend Developer
   
 ## Lenguajes y Tecnologías:
 
