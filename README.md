@@ -1,5 +1,5 @@
 <h2> Hola! 
-<p>Frontend Developer </a><img src="https://emoji.discadia.com/emojis/f160051e-d818-4845-9500-8b4e2d998d63.gif](https://emoji.gg/emoji/6186-developer-bot" width="30"> 
+<p>Frontend Developer </a><img src="https://emoji.gg/emoji/6186-developer-bot" width="30"> 
 
 ## Lenguages:
 
